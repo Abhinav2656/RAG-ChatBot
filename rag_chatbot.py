@@ -7,7 +7,7 @@ from langchain.chains import LLMChain
 import numpy as np
 
 # Initialize Groq LLM with API key and model
-llm = ChatGroq(model="llama-3.3-70b-versatile", api_key="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")
+llm = ChatGroq(model="llama-3.3-70b-versatile", api_key="your_groq_api_key")
 
 # Define prompt templates
 prompt_with_context = PromptTemplate(
