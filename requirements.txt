@@ -1,0 +1,11 @@
+streamlit
+beautifulsoup4
+langchain
+langchain-community
+langchainhub
+langchain-groq
+transformers
+torch
+numpy
+scikit-learn
+sentence-transformers
