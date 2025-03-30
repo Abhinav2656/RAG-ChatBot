@@ -9,3 +9,4 @@ torch
 numpy
 scikit-learn
 sentence-transformers
+faiss
